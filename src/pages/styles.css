@@ -1,0 +1,36 @@
+  
+.parallax {
+    overflow: hidden;
+    letter-spacing: -2px;
+    line-height: 0.8;
+    margin: 0;
+    padding: 10px;
+    /* background-color: #8855ff; */
+    white-space: nowrap;
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+  .parallax .scroller {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 64px;
+    /* background-color: #fdfdfd; */
+    display: flex;
+    white-space: nowrap;
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+  .parallax span {
+    /* background-color: #111111; */
+    display: block;
+    margin-right: 30px;
+  }
+
+  section {
+    /* padding-top: 85vh;
+    padding-bottom: 85vh; */
+    position: relative;
+    /* background-color: #ffaa00; */
+  }
